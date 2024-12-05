@@ -1,2 +1,2 @@
 # hello-github
-联系使用GitHub流
+练习如何使用GitHub流
